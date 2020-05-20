@@ -1,4 +1,4 @@
-var myArray = [ ["Deep Spirit" , 10] , ["Testing Ground" , 5] ];
+var myArray = [ ["Bulls" , 10] , ["White Sox" , 5] ];
 >undefined
 
 myArray;
