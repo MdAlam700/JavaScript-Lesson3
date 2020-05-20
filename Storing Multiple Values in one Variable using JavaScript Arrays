@@ -1,5 +1,5 @@
-var myArray= ["Peace" , "Caution" , 8];
+var myArray= ["Lemon" , "Orange" , 6];
 >undefined
 
 myArray;
->Array(3) [ "Peace", "Caution", 8 ]
+>Array(3) [ "Lemon", "Orange", 6 ]
